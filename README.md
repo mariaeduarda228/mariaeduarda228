@@ -6,7 +6,7 @@
  
 #
 
- <p align="center">Estudante de Engenharia de Software na Anhanguera e também faço cursos na DIO, apaixonada por programação. Comprometida em desenvolver habilidades sólidas em Desenvolvimento Full Stack e Machine Learning, incluindo JavaScript, React.js, TypeScript e Python. 
+ <p align="center">Sou estudante de Engenharia de Software na Anhanguera e também faço cursos na DIO, apaixonada por programação. Comprometida em desenvolver habilidades sólidas em Desenvolvimento Full Stack e Machine Learning, incluindo JavaScript, React.js, TypeScript e Python. 
 Buscando oportunidades de estágio ou projetos acadêmicos que me permitam aplicar meu conhecimento e crescer profissionalmente. 
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
